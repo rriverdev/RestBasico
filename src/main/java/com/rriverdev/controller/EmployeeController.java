@@ -25,7 +25,7 @@ public class EmployeeController {
 	
 	@RequestMapping("/getOne")
 	public List<Employee> getEmployee(){		
-		
+		/*Lambda Expression*/
 		employServ.consultaListaBasica().forEach(x -> System.out.println(x.toString()));
 		
 		System.out.println(employServ.toString());
