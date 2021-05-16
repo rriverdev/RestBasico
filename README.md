@@ -32,7 +32,7 @@ Body json:
  }
 
 ### Author
-* rrivasp, Greetings!
+* rrivasp, greetings!
 
 ### Reference Aditional
 
