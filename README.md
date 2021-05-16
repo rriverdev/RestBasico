@@ -3,7 +3,7 @@
 ### Reference Documentation
 For further reference, please consider the following sections:
 
-* [Download and unlock the project in the working IDE](https://github.com/rriverdev/RestBasico.git)
+* [Download and deploy the project in the working IDE](https://github.com/rriverdev/RestBasico.git)
 * Project type: Springboot.
 * For this practice, the application will start in the default port 8080.
 * Below are some examples of testing using postman.
